@@ -15,14 +15,17 @@ React is solid, built by Facebook.  In the form of React-Native, React can also 
 <p> <h5> 1) Getting Started </h5>  </p>
 <p> Setting up development aka TheDev folder for our project and installing dependencies.  This where you go to build your website on your computer.</p>
 
-<p> <h5>  2) Building a basic Website with No Database in React. </h5> </p>
+<p> <h5>  2) Building a basic Website with No Database using React.js. </h5> </p>
 <p> In this tutorial you build a basic Front-End and simmulate it on a development server launched from your laptop</>
 
 <p> <h5> 3) Deploy your site to Heroku </h5> </p>
 
-<p> <h5> 5) Build a database with Node </h5> </p>
+<p> <h5> 4) Build a database with Node.js </h5> </p>
 
-<p> <h5> 5) Build a database with Node </h5> </p>
+<p> <h5> 5) Building Quality Assurance Tests for your Product </h5> </p>
+
+<p> <h5> 6) Web Scraping in Python </h5> </p>
+
 
 
 
